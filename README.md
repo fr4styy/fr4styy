@@ -1,16 +1,14 @@
-## Hi there 👋
+# hey there 👋
 
-<!--
-**fr4styy/fr4styy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm frost, a hobbyist coder of 4+ yrs
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 langs
+![lua](https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 💬 let's connect
+![discord](https://img.shields.io/badge/discord-5865f2?style=for-the-badge&logo=discord&logoColor=white)
